@@ -14,7 +14,7 @@ The following image shows the physical structure of the safe:
 
 ![WhatsApp Image 2022-12-13 at 10 44 44](https://user-images.githubusercontent.com/116517151/207268804-8b68c554-f292-4458-a1db-036dedd3766c.jpeg)
 
-As an electronic engineer I had to design a schematic sketch of the hardware components listed and the connections that is required:
+As an electronic engineer I had to design a schematic sketch of the hardware components listed and the connections required:
 - Nuvoton board.
 - UART interface (Bluetooth).
 - Ultrasoud sensor.
