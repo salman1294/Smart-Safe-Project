@@ -1,7 +1,7 @@
 # Smart-Safe-Project
 Hello and welcome to my smart safe project, this project was done in an Embedded systems course in college (optional course).
 
-Describtion: As the name Suggests, I created a prototype of a smart safe which is similar to an ordinary safe that locks & unlocks as needed, but some smart features:
+Describtion: As the name Suggests, I created a prototype of a smart safe which is similar to an ordinary safe that locks & unlocks as needed, but with some smart features:
 - The user can connect to the safe via Bluetooth.
 - Reset and change code on the Bluetooth device.
 - Get a One-Use code to the bluetooth device.
